@@ -1,0 +1,43 @@
+//FORMATO CONTENEDOR SECCION N°2/
+
+.seccion2__fondo { background-color:$quicksilver;}
+
+.seccion2__formato {
+    
+    display: flex;
+    flex-direction: column ;
+}
+
+
+//SECCION N°2 IMAGE//
+
+.seccion2__imagen {
+    width: 800px;
+    margin: auto;
+    padding-top: 50px;
+}
+
+// SECCION N°2 TEXTO//
+
+.seccion2__titular {
+    text-align: center;
+    color:$snow;
+    padding-top: 20px;
+
+    
+}
+
+.seccion2__texto {
+    margin: auto;
+    color:$snow;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.seccion2__texto2 {
+    margin: auto;
+    color:$snow;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}

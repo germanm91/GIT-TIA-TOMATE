@@ -1,0 +1,38 @@
+//FORMATO CONTENEDOR SECCION N°5/
+.seccion5__formato {
+    background-color: $white;
+    display: flex;
+    flex-direction: column;
+}
+
+//SECCION N°5 IMAGE//
+
+.seccion5__imagen {
+    width: 400px;
+    margin: auto;
+    padding-top: 50px;
+}
+
+// SECCION N°5 TEXTO//
+
+.seccion5__titular {
+    margin: auto;
+    color: black;
+    padding-top: 20px;
+}
+
+.seccion5__texto {
+    margin: auto;
+    color: black;
+    padding-top: 20px;
+}
+
+.seccion5__texto2 {
+    margin: auto;
+    color:black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    }
+
+
+    

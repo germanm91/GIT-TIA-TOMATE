@@ -1,0 +1,38 @@
+//FORMATO CONTENEDOR SECCION N°3/
+.seccion3__formato {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+//SECCION N°3 IMAGE//
+
+.seccion3__imagen {
+    width: 800px;
+    margin: auto;
+    padding-top: 50px;
+}
+
+// SECCION N°3 TEXTO//
+
+.seccion3__titular {
+    text-align: center;
+    color:$granitegray;
+    padding-top: 20px;
+
+    
+}
+
+.seccion3__texto {
+    margin: auto;
+    color:$granitegray;
+    padding-top: 20px;
+}
+
+.seccion3__texto2 {
+    margin: auto;
+    color:$granitegray;
+    padding-top: 20px;
+    padding-bottom: 20px;
+   
+    }

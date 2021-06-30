@@ -1,0 +1,25 @@
+//FORMATO contacto/
+.contacto__formato {
+    background-color: $rosado;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 300px;
+}
+
+//TEXTO SECCION 1//
+
+.contacto__texto {
+    color:white;
+    margin: auto;
+    margin-top: 100px;}
+
+ //BUTTOM//
+ 
+.button__formato { margin: auto;
+                  border-radius: 10px;
+                  margin-bottom: 70px;}
+
+.button_text { color: black;
+             text-decoration: none;}
+

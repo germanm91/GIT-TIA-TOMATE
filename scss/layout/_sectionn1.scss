@@ -1,0 +1,35 @@
+//FORMATO SECCIÓN 1//
+.seccion1__formato {
+    background-color: $rosado;
+    display: flex;
+    align-items: center;
+    height: 500px;
+    flex-direction: column;
+    text-align: center;
+}
+
+//TEXTO SECCION 1//
+
+.seccion1__texto {
+    color:white;
+   
+    font-family: $raleway;
+    font-weight: $fontweightextralight;
+    font-size: x-large;
+    margin-top: 200px;
+    margin-bottom: 0px;
+    font-size: 50px;
+}
+
+.seccion1__texto2 {
+    color:white;
+ 
+    font-family: $raleway;
+    font-weight: 700  ;
+    font-size: 70px;
+}
+
+
+
+
+

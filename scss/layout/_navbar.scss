@@ -1,0 +1,9 @@
+// NAVBAR//
+
+.logonavbar { width: 30%;}
+
+@media screen and (max-width: 600px) {
+  .navbar-toggler {
+    display: none;
+  }
+}
